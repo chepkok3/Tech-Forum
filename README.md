@@ -25,9 +25,9 @@
 **[Tech Forum Page]]** is a capstone based project that is aimed enabling individual development of web pages. It is a personalized online website that allows me to have something unique in my portfolio to share with potential employers during job searching.
 
 ## 🛠 Built With 
-<a name="built-with">CSS</a>
-<a name="built-with">HTML</a>
-<a name="built-with">JavaScript</a>
+<a name="built-with">-CSS</a>
+<a name="built-with">-HTML</a>
+<a name="built-with">-JavaScript</a>
 
 ### Key Features <a name="key-features"></a>
 
@@ -51,9 +51,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<a name="getting-started">Git/Github</a>
-<a name="getting-started">HTML and CSS understanding</a>
-<a name="getting-started">VS code or any other source-code editor  tool.</a>
+-Git/Github,
+-HTML and CSS understanding,
+-VS code or any other source-code editor tool.
 
 
 ### Setup
@@ -64,10 +64,10 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-<a name="getting-started">to install locally run git clone</a>
-<a name="getting-started">open the cloned directory with VSCode</a>
-<a name="getting-started">Install live server extension for VSCode</a>
-<a name="getting-started">Right click on the index.html and select open with live servers</a>
+-To install locally run git clone
+-Open the cloned directory with VSCode
+-Install live server extension for VSCode
+-Right click on the index.html and select open with live servers
 
 ### Deployment
 

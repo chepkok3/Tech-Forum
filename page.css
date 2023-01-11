@@ -62,10 +62,6 @@ body {
   background-size: cover;
 }
 
-.navbar-desktop {
-  display: none;
-}
-
 .navbar-mobile {
   width: 100%;
   height: 3rem;
@@ -311,6 +307,12 @@ body {
   font-size: 1.5rem;
   font-family: inherit;
   cursor: pointer;
+}
+
+.navbar-desktop {
+  display: none;
+  display: flex;
+  justify-content: space-between;
 }
 
 .navbar-desktop li a {
