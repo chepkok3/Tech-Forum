@@ -22,12 +22,13 @@
 
 # 📖 [Tech Forum Page] <a name="about-project"></a>
 
-**[Tech Forum Page]]** is a capstone based project that is aimed enabling individual development of web pages. It is a personalized online website that allows me to have something unique in my portfolio to share with potential employers during job searching.
+- **[Tech Forum Page]** is a capstone based project that is aimed enabling individual development of web pages. It is a personalized online website that allows me to have something unique in my portfolio to share with potential employers during job searching.
 
 ## 🛠 Built With 
-<a name="built-with">-CSS</a>
-<a name="built-with">-HTML</a>
-<a name="built-with">-JavaScript</a>
+
+- **[CSS]**
+- **[HTML]**
+- **[JavaScript]**
 
 ### Key Features <a name="key-features"></a>
 
@@ -39,9 +40,13 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link]( https://chepkok3.github.io/Tech-Forum/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Video Presentation <a name="zoom video"></a>
+
+- [Video Presentation Link]( https://www.loom.com/share/fde2a4d3977641f4b03a9dbf5c43315e)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -51,9 +56,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
--Git/Github,
--HTML and CSS understanding,
--VS code or any other source-code editor tool.
+- **[Git/Github]**
+- **[HTML and CSS understanding]**
+- **[VS code or any other source-code editor tool.]**
 
 
 ### Setup
@@ -64,10 +69,10 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
--To install locally run git clone
--Open the cloned directory with VSCode
--Install live server extension for VSCode
--Right click on the index.html and select open with live servers
+- **[To install locally run git clone]**
+- **[Open the cloned directory with VS Code]**
+- **[Install live server extension for VS Code]**
+- **[Right click on the index.html and select open with live servers]**
 
 ### Deployment
 
@@ -93,7 +98,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[The html file is created by adding elements including information about me and the fictional event.]**
 - [ ] **[Using css styles that make the html elements presentable to the viewers and visitors of the page.]**
@@ -125,7 +129,6 @@ I would like to thank the Microverse team, coding partners and programming frien
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[What is the importance of the project?]**
 
@@ -140,7 +143,7 @@ I would like to thank the Microverse team, coding partners and programming frien
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/chepkok3/Tech-Forum/blob/tech-forum/licence) licensed.
 
 
 

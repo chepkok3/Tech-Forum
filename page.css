@@ -40,7 +40,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 160px;
+  padding: 0 6rem;
 }
 
 .tech-campaign {
@@ -115,9 +115,21 @@ body {
 }
 
 .main-program-section h2 {
-  color: #fff;
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: inherit;
+  padding-top: 16px;
+  padding-bottom: 12px;
   text-align: center;
-  padding: 2rem 0;
+  color: #fff;
+}
+
+.main-program-section hr {
+  width: 4%;
+  margin-top: 0.05px;
+  margin-bottom: 1rem;
+  color: #ec5242;
+  margin-left: 48%;
 }
 
 .main-program {
@@ -218,7 +230,7 @@ body {
   align-items: center;
   justify-content: center;
   padding: 1rem 2rem;
-  margin-top: 16vh;
+  margin-top: 12vh;
   gap: 2rem;
 }
 
@@ -250,9 +262,15 @@ body {
 }
 
 .contact-section {
-  padding: 2rem;
+  padding: 2.5rem;
   text-align: center;
   line-height: 1.5rem;
+}
+
+.contact-section p {
+  text-align: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .contact-section a {
@@ -414,7 +432,7 @@ body {
 .sponsors h6 {
   font-family: inherit;
   font-size: 1rem;
-  color: #d3d3d3;
+  color: #808080;
   text-align: center;
 }
 
@@ -437,7 +455,7 @@ body {
   text-decoration: none;
   font-family: inherit;
   letter-spacing: 0.5px;
-  color: #fff;
+  color: #808080;
 }
 
 .partner-icon:hover {
@@ -472,6 +490,8 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
+  width: 100%;
+  height: 100%;
 }
 
 .speakers-container {
@@ -607,6 +627,16 @@ body {
     color: blue;
   }
 
+  .about-bottom-nav {
+    background-color: #fff;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 13.5rem;
+  }
+
   .mobile-one-content {
     padding: 3rem 4rem;
     margin-top: 17vh;
@@ -726,6 +756,16 @@ body {
   .featured-speakers div:nth-child(5),
   .featured-speakers div:nth-child(6) {
     display: flex;
+  }
+
+  .about-content-one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2rem;
+    margin-top: 30vh;
+    gap: 2rem;
   }
 
   .about-content-one h1 {

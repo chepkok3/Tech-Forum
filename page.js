@@ -74,8 +74,8 @@ const speakers = [
 speakers.forEach((speaker) => {
   const featured = `<div class="feature">
     <div class="speaker-image">
-      <img src="${speaker.featuredImage}" width="500"
-      height="150" alt="speaker image"
+      <img src="${speaker.featuredImage}" width="800"
+      height="220" alt="speaker image"
       
       >
     </div>
