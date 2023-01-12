@@ -82,7 +82,6 @@ speakers.forEach((speaker) => {
     <div class="speaker-details">
       <h4>${speaker.Name}</h4>
       <p class="description">${speaker.description}</p>
-      <hr class="hr" hr></hr>
       <p class=info>${speaker.information}</p>
       <a target="_blank" class="detailed" href="${speaker.detailed}">More info</a>
     </div>

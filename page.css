@@ -124,14 +124,6 @@ body {
   color: #fff;
 }
 
-.main-program-section hr {
-  width: 4%;
-  margin-top: 0.05px;
-  margin-bottom: 1rem;
-  color: #ec5242;
-  margin-left: 48%;
-}
-
 .main-program {
   display: flex;
   flex-direction: row;
@@ -361,13 +353,6 @@ body {
   margin: 1rem 2rem;
 }
 
-.past-forums hr {
-  width: 7%;
-  margin-top: 0.5rem;
-  color: #ec5242;
-  margin-left: 48%;
-}
-
 .past-forums h3 {
   text-align: center;
   font-size: 1rem;
@@ -434,13 +419,6 @@ body {
   font-size: 1rem;
   color: #808080;
   text-align: center;
-}
-
-.sponsors hr {
-  width: 5%;
-  margin-top: 0.5rem;
-  color: #ec5242;
-  margin-left: 47.5%;
 }
 
 .partners-icons {
@@ -528,12 +506,6 @@ body {
   color: #ec5242;
 }
 
-.hr {
-  width: 6%;
-  margin: 0.6rem 0;
-  color: #d3d3d3;
-}
-
 .info {
   color: #272a31;
   font-size: 1rem;
@@ -559,13 +531,6 @@ body {
   text-align: center;
   font-size: 1.2rem;
   color: #272a31;
-}
-
-.speakers-header hr {
-  width: 7%;
-  margin-top: 0.5rem;
-  color: #ec5242;
-  margin-left: 48%;
 }
 
 .more {
@@ -700,13 +665,6 @@ body {
     cursor: pointer;
   }
 
-  .speakers-header hr {
-    width: 4%;
-    margin-top: 1rem;
-    color: #ec5242;
-    margin-left: 48%;
-  }
-
   .more {
     display: none;
   }
@@ -798,12 +756,5 @@ body {
     padding: 2rem;
     display: flex;
     justify-content: center;
-  }
-
-  .sponsors hr {
-    width: 2%;
-    margin-top: 0.5rem;
-    color: #ec5242;
-    margin-left: 49%;
   }
 }
