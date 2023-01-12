@@ -22,7 +22,7 @@
 
 # 📖 [Tech Forum Page] <a name="about-project"></a>
 
-- **[Tech Forum Page]** is a capstone based project that is aimed enabling individual development of web pages. It is a personalized online website that allows me to have something unique in my portfolio to share with potential employers during job searching.
+- **[Tech Forum Page]** is a capstone based project that is aimed at enabling individual development of web pages. It is a personalized online website that allows me to have something unique in my portfolio to share with potential employers during job searching.
 
 ## 🛠 Built With 
 
@@ -143,7 +143,7 @@ I would like to thank the Microverse team, coding partners and programming frien
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/chepkok3/Tech-Forum/blob/tech-forum/licence) licensed.
+This project is [MIT](https://github.com/chepkok3/Tech-Forum/blob/aa38f32257e0df2c1d5b2df2c6a12e79e8859794/MIT%20License) licensed.
 
 
 
